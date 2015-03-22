@@ -1,0 +1,25 @@
+@font-face {
+    font-family: 'BLOKKRegular';
+    src: url('../fonts/regular/BLOKKRegular.eot');
+    src: url('../fonts/regular/BLOKKRegular.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/regular/BLOKKRegular.woff') format('woff'),
+         url('../fonts/regular/BLOKKRegular.svg#BLOKKRegular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'BLOKKNeue-Regular';
+    src: url('../fonts/neueregular/BLOKKNeue-Regular.eot');
+    src: url('../fonts/neueregular/BLOKKNeue-Regular.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/neueregular/BLOKKNeue-Regular.woff') format('woff'),
+         url('../fonts/neueregular/BLOKKNeue-Regular.svg#BLOKKNeue-Regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+.blokk-regular{
+	font-family: 'BLOKKRegular';
+}
+.blokk-neue{
+	font-family: 'BLOKKNeue-Regular';
+}
